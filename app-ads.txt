@@ -129,5 +129,3 @@ yandex.com, 95746987, RESELLER
 yandex.com, 97539269, RESELLER
 yeahmobi.com, 5135195, RESELLER
 thebrave.io, 1234634, RESELLER, c25b2154543746ac
-
-
