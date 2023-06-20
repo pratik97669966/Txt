@@ -261,3 +261,5 @@ yandex.com, 95746987, RESELLER
 yandex.com, 97539269, RESELLER
 
 yeahmobi.com, 5135195, RESELLER
+
+pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
